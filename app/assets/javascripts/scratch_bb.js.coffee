@@ -3,7 +3,7 @@ window.ScratchBB =
   Collections: {}
   Views: {}
   Routers: {}
-  initialize: -> alert 'Hello from Backbone!'
+  initialize: ->
 
 window.App = window.ScratchBB
 
